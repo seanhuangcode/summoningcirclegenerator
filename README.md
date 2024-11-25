@@ -1,2 +1,2 @@
 # summoningcirclegenerator
-generates summonign cirlces
+generates summoning circles
